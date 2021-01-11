@@ -4,16 +4,17 @@
   A "Discord clone" with Socket.io, Node.js &amp; MongoDB... 
 </p>
 
-![Profile MiniCord](https://github.com/ThalKod/discord-clone/blob/master/Profile_Screen.png)
+(Credits to ThatKod)
+
+Fixed Username = Unique issue (people cannot sign up)
+
+Removed Friedns list since it was useless and the feature wasnt added yet.
 
 
 # :floppy_disk: Installation
 
 ```bash
 # clone the repo
-$ git clone https://github.com/ThalKod/discord-clone.git
-
-$ cd discord-clone
 
 # install the node modules...
 $ npm install
